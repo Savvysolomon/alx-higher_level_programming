@@ -1,1 +1,1 @@
-Pythin High Level Programming Repository
+Python High Level Programming Repository
